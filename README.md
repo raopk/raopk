@@ -2,9 +2,7 @@
 
 ### About me
 I'm a data science professional and economic policy enthusiast passionate about learning analytics, Bias in AI and AI ethics. 
-- 🔭 I’m currently working on a Ph.D in Educational Technology with a Human and Computer Interaction minor and I am interested in collaborating on any learning analytics research. 
-- 📫 How to reach me: <a href="https://twitter.com/rayopk" class="icon brands alt fa-twitter"><span class="label">@rayopk</span></a>
-- 😄 Pronouns: he/him
+- 🔭 A Ph.D in Educational Technology with a Human and Computer Interaction minor and I am interested in collaborating on any learning analytics research. 
 
 <!--
 **raopk/raopk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
