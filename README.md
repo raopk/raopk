@@ -9,9 +9,9 @@ Data scientist and learning analytics researcher working on **fairness in AI**: 
 
 ### Background
 
-- PhD in Educational Technology with a Human-Computer Interaction minor, University of Florida. Holmes Scholar and 2022 Gleim Research Fellow at the UF College of Education. Member of the AICE Lab (Advanced and Inclusive Computing for Education).
+- PhD in Educational Technology, University of Florida. Holmes Scholar and 2022 Gleim Research Fellow at the UF College of Education. Member of the AICE Lab (Advanced and Inclusive Computing for Education).
 - MSc Economics and MSc Data Science, South Dakota State University. BSc Economics and Statistics, University of Cape Coast, Ghana.
-- Six-plus years in data analytics, data management and visualization engineering, with work experience in Ghana, South Africa, Kenya, the UAE, England and the US.
+- Six-plus years in data analytics, data management and visualization engineering.
 
 ### Tools I reach for
 
