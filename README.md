@@ -25,4 +25,3 @@ Collaboration on learning analytics, algorithmic fairness and health AI research
 
 - Website: [rayopoku.com](https://rayopoku.com)
 - Email: ray@opoku.com
-- X: [@offtheraydar](https://twitter.com/offtheraydar)
